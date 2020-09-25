@@ -1,0 +1,43 @@
+h1{
+    color:coral;
+    font-size: 40px;
+    margin-top: -2px;
+}
+
+h3 {
+    font-size: 20px;
+}
+  
+*{
+    border:red;
+}
+
+body {
+    margin-top: -1px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+img{
+    border: 5px dashed rgb(0, 0, 0);
+}
+
+li {
+    font-size: 19px;
+}
+
+p {
+    font-size: 23px;
+}
+
+.Header {
+    background-color: yellow;
+    text-align: center;
+}
+
+.grid{
+    margin-left: 5px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
